@@ -36,6 +36,7 @@
     "sonner": "^2.0.5",
     "tailwind-merge": "^3.3.0",
     "tailwindcss": "^4.1.8",
+    "tz-lookup": "^6.1.25",
     "zod": "^3.25.56"
   },
   "devDependencies": {
@@ -43,6 +44,7 @@
     "@types/node": "^22.15.30",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
+    "@types/tz-lookup": "^6.1.2",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
     "@typescript-eslint/parser": "^6.10.0",
     "@vitejs/plugin-react-swc": "^3.5.0",
